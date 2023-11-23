@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(127,1): warning C4005: CALLBACK: изменение макроопределения
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\GL\glut.h(33,1): message : см. предыдущее определение "CALLBACK"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\approxii\Documents\libraries\glfw-3.3.8.bin.WIN64\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123,1): message : см. предыдущее определение "APIENTRY"
+  Project2.vcxproj -> C:\Users\approxii\source\repos\Project2\x64\Debug\Project2.exe
+  Скопировано файлов:         1.
